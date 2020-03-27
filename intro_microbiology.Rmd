@@ -176,4 +176,4 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 How do viruses compare to other microorganisms? Generate a table to compare viruses to other microorganisms based on size, genetic material, structure, and reproduction.
 
 ##### Solution
-![Comparison between viruses and other microorganisms..](./Images/virus_table.png)
+![Comparison between viruses and other microorganisms.](./Images/virus_table.PNG)
