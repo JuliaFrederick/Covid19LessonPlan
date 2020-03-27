@@ -10,9 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-
-# Module 1: Introduction to Microbiology 
-
 ## Georgia Standards of Excellence 
 SMI2. Obtain, evaluate, and communicate information to differentiate among types of microorganisms based on defining characteristics. 
 a. Develop and use models to distinguish between different kinds of microorganisms (Prokaryotes and Eukaryotes) based on cellular structure (including but not limited to, cell wall, cell membrane, organelles, cilia, and flagella), molecular biology (plasmids, DNA, RNA and proteins), and biochemical composition (lipids, proteins, and carbohydrates). 
