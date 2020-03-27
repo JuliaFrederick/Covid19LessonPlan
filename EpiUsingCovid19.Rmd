@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-Visit The Corona Virus Map, generated and updated by the New York Times. Reflect. What may account for the difference in the number of cases, or the burden of disease, between countries? 
+Visit [The Corona Virus Map](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html), generated and updated by the New York Times. Reflect. What may account for the difference in the number of cases, or the burden of disease, between countries? 
 </div>
 
 ##### Solution
@@ -130,7 +130,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
 Model the spread of the COVID-19, beginning with a single infected individual and assuming an R0 of 2. How many infections may arise after five generations? The first two generations have been modeled for you. 
-
+![](./Images/r0exercise.png)
 </div>
 
 ##### Solution  

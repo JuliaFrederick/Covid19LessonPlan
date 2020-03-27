@@ -9,15 +9,7 @@ library(kableExtra)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-## Georgia Standards of Excellence 
-SMI2. Obtain, evaluate, and communicate information to differentiate among types of microorganisms based on defining characteristics. 
-a. Develop and use models to distinguish between different kinds of microorganisms (Prokaryotes and Eukaryotes) based on cellular structure (including but not limited to, cell wall, cell membrane, organelles, cilia, and flagella), molecular biology (plasmids, DNA, RNA and proteins), and biochemical composition (lipids, proteins, and carbohydrates). 
-b. Construct explanations of how viruses differ from other cellular parasites. 
-c. Construct explanations for the relative sizes and different types of cell shapes of microorganisms. 
-d. Plan and carry out investigations to explore various methods used to visualize microorganisms.
-
-## Introduction 
+# Introduction  
 
 Microorganisms are found almost everywhere on the planet. Due to the incredible amount of microbial diversity, microbes have evolved to live along the deep-sea floor, among soils and roots, and even inside you! 
 
@@ -28,7 +20,7 @@ Microbes are essential to life; they serve fundamental roles in our ecosystem an
 Most microbes in the environment are harmless or beneficial, but a small portion of microbes can cause disease. By understanding functions and characteristics of microbes, we may be better able to understand and control the spread of disease.  
 
 
-## What are Microbes?
+# What are Microbes?
 
 A microorganism, or microbe, is any organism that is too small to be seen by the eyes alone. This includes viruses, bacteria, protozoans, and fungi. 
 
@@ -89,7 +81,7 @@ Visit the [Cell Anatomy Viewer](https://askabiologist.asu.edu/cell-viewer-game/)
 
 #
  
-## Bacteria 
+# Bacteria 
 
 Bacteria are single-celled microbes that are found in diverse environments. The more we look, the more places we find them!
 
