@@ -1,4 +1,4 @@
-name: "Simple Analysis Exercise"
+name: "COVID-19 Lesson Plan"
 output_dir: '.'
 output:
   html_document:

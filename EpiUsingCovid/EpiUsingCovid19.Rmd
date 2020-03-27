@@ -1,7 +1,5 @@
 ---
-title: "Epidemiology using COVID-19"
-author: "Julia Frederick"
-date: "3/27/2020"
+title: "Module 3: Epidemiology using COVID-19"
 output: html_document
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: "Infectious Disease"
-author: "Julia Frederick"
-date: "3/26/2020"
+title: "Module 2: Infectious Disease"
 output: html_document
 ---
 
