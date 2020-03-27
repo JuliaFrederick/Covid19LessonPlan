@@ -1,0 +1,14 @@
+---
+title: "COVID-19: Microbiology, Infectious Disease and Epidemiology"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+This is a three module lesson plan that covers *microbiology*, *infectious disease*, and *epidemiology*. The content is designed by Megan Lott and Julia Frederick. Two PhD students in the college of Public Health, department of Environmental Health Science at the University of Georiga.  
+
+Here you can find the Georgia Education Standards Associated with these three modules.  
+
+If you have any questions please reach out to us at megan.lott@uga.edu or julia.frederick@uga.edu  
+
+![](./Images/publicHealthlogo.png)
