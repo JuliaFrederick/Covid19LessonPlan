@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
   The Coronavirus Disease 2019 (COVID-19) is a respiratory illness caused by a novel, or new, virus, SARS-CoV-2. This novel virus was first identified during an outbreak of respiratory illnesses in Wuhan, China in December 2019. The outbreak in Wuhan is an example of an epidemic, a rise in the number of cases of a disease beyond what is normally expected in a single community or geographical area.  
   Since the initial epidemic in Wuhan, the SARS-CoV-2 virus has spread throughout the globe. The World Health Organization has characterized the COVID19 disease as an ongoing pandemic, a disease that affects a large number of people across a wide geographic region or across several countries. In the United States, all 50 states have reported cases of COVID-19.  
   The SARS-CoV-2 Virus is spread primarily from person-to-person contact. When a person infected with the virus sneezes or coughs, the virus can be inhaled or ingested by others nearby. The virus may also be spread through contact with contaminated surfaces.  
-![**Symptoms of COVID-19, the respiratory illness caused by SARS-CoV-2.**](../Images/FeverCoughSoB.png)  
+![**Symptoms of COVID-19, the respiratory illness caused by SARS-CoV-2.**](./Images/FeverCoughSoB.png)  
 
 #### Exercise 1 {.tabset .tabset-fade .tabset-pills}
 
@@ -37,15 +37,15 @@ There are many factors that may contribute to the differences in the burden of d
 **Flu Pandemic (1918).** The 1918 pandemic was the deadliest pandemic of the 20th century. This pandemic was caused by the H1N1 flu virus. During this pandemic, one-third of the world’s population became infected.  
 
 **Cholera (Current).**  Cholera is an acute diarrheal disease caused by the bacterium Vibrio cholerae. V. cholerae is transmitted through contaminated food or water and is associated with contamination from fecal material. The current (seventh) pandemic started in South Asia in 1961, and reached Africa in 1971 and the Americas in 1991. Cholera is now endemic in many countries, where cases are commonly reported.  
-![](../Images/CholeraMap.png)  
+![](./Images/CholeraMap.png)  
 
 **COVID-19 (Current).** The current COVID-19 pandemic is caused by the SARS-CoV-2 Virus and causes a mild to severe respiratory illness. This is the first pandemic known to be caused by the emergence of a new coronavirus.  
-![](../Images/SARSCoV2.png)
+![](./Images/SARSCoV2.png)
 
 # Coronaviruses
 
 Coronaviruses are a large family of spherical RNA viruses that are common among humans and animals. In humans, these viruses can cause acute respiratory illnesses, almost like a cold. In severe cases, these illnesses can lead to pneumonia or even death.  
-![Hosts to Coronaviruses include camels, bats, cows, civets, and humans.](../Images/animalsandhuman.png)  
+![Hosts to Coronaviruses include camels, bats, cows, civets, and humans.](./Images/animalsandhuman.png)  
 
   Other known coronaviruses include the **Severe Acute Respiratory Syndrome (SARS)** and **the Middle East Respiratory Syndrome (MERS)**. These are examples of zoonotic disease, diseases that spread between animals and humans.  
   The SARS virus originated in small mammals and evolved to infect humans. SARS was first reported in Southern China in 2002 and spread across countries in North America, South America, Europe, and Asia. Cases of SARS have not been reported since 2004.   
@@ -54,7 +54,7 @@ Coronaviruses are a large family of spherical RNA viruses that are common among 
 ## Emergence of the Novel Coronavirus  
 
   Researchers are still investigating the origins of the novel SARS-CoV-2 coronavirus. The virus is thought to be a zoonotic disease. The first cases of COVID-19 were linked to a live animal market in Wuhan, China. The genome of the SARS-CoV-2 virus suggests that it is related to viruses with animal hosts. It is predicted, then, that the virus *spilled over* from an animal host to a human host. Once adapted to the human host, the virus was able to spread from person-to-person.  
-![](../Images/epiCompRVI.png)  
+![](./Images/epiCompRVI.png)  
 
 # Modeling Infectious Diseases  
 ## Epidemic Curve  
@@ -72,7 +72,7 @@ Complete the CDC’s training on Epidemic Curves, [here](https://www.cdc.gov/tra
 </div>
 
 ##### Solution
-![An example of an epi curve](../Images/epicurve.jpg)  
+![An example of an epi curve](./Images/epicurve.jpg)  
 
 ## SIR Model  
   *Epidemiologists* and *disease ecologists* use models to help predict the spread of infectious diseases throughout a community or ecosystem. Using a **SER Model**, individuals are classified according to their disease status into the following categories:  
@@ -81,7 +81,7 @@ Complete the CDC’s training on Epidemic Curves, [here](https://www.cdc.gov/tra
   + **Infected:** Individuals in this category have been exposed to and infected by the parasite. These individuals may be *infectious*, and are capable of spreading the parasite to others. Infectious individuals will often display symptoms of the illness caused by the parasite. However, some individuals may not display any symptoms, but are still capable of spreading the parasite. These individuals are *asymptomatic carriers* of the infection.  
   + **Recovered:** Individuals in this compartment are no longer infectious. Once the parasite is detected by the host’s immune system, the immune system fights off the infection. Individuals that recover from infection have often acquired immunity to the parasite.  
   
-![**Foundations of the SIR Compartmental Model.** The flow between these compartments is affected by many different factors that include an individual’s health, public health, and environmental conditions. ](../Images/SIRcompartment.png)  
+![**Foundations of the SIR Compartmental Model.** The flow between these compartments is affected by many different factors that include an individual’s health, public health, and environmental conditions. ](./Images/SIRcompartment.png)  
 
 #### Question 1 {.tabset .tabset-fade .tabset-pills}
 
@@ -100,7 +100,7 @@ An individual moves from the infected category into the recovered category once 
 
 ### SIR Model and the Whole Population  
 The same principles that apply to an individual moving between compartments in the SIR model can be applied to a whole population. The graph below is an example of how an SIR model can be applied to the United States population for COVID-19. In this example we start with only one person entering the US who is infected with COVID-19, and how quickly this can spread if left totally uncontrolled. After 100 days almost the entire population of the US (all 327 million) have been infected - the only ones left in the Susceptible compartment are those being born, and immigrating in. At the peak of infection 35% of Americans would be sick at a single time, which is 114,450,000 people!  
-![](../Images/SIRuncontrolledgraph.png)  
+![](./Images/SIRuncontrolledgraph.png)  
 
 #### Question 2 {.tabset .tabset-fade .tabset-pills}
 
@@ -164,7 +164,7 @@ Plague = 3.5
 ### Quarantine  
   The term quarantine refers to the 40 day period that people had to remain on ships before coming to land during the time of the Plague. Now when people quarantine it refers to them removing themselves from the population before or after exposure to the disease. Doing so protects themselves from possibly acquiring the infection, if they end up being infected it is also protecting the population from acquiring it from them.  
   In the United States, many cities, counties, and states are issuing mandatory “Stay-At-Home” or “Safer-At-Home” orders to their citizens. These orders are telling people to remain in their home and asking them only to leave for essential functions (e.g. essential jobs, grocery shopping, doctor’s visits). This is a type of quarantine, and when people participate properly they are playing their part in slowing the spread of COVID-19. In the graph below, you can see how the proportion of people infected changes based on what percent of the population abides by the “Safer-At-Home” orders. 
-![](../Images/Quarantinegraph.png)  
+![](./Images/Quarantinegraph.png)  
   The percent of people participating in the quarantine are based on a recent study by Unacast. If you take a look at [this website](https://www.unacast.com/covid19/social-distancing-scoreboard), you can see how US states are scoring in lowering their activity and social distancing. Wyoming is doing the worst by only decreasing their activity by 10%, while some states have decreased their activity by 50%. In the United States as a whole, we have decreased our activity by about 36%.  
   
 ### Treatment (vaccine/drugs)  
@@ -187,8 +187,8 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
 Using the SIR compartmental model and the 6 public health measures above, draw arrows describing how each measure will affect the population. Label the arrows with the measure. Note: some measures can affect more than one compartment.  
-![](../Images/SIRcompartment.png) 
+![](./Images/SIRcompartment.png) 
 </div>
 
 ##### Solution 
-![](../Images/sirAnswer.png) 
+![](./Images/sirAnswer.png) 

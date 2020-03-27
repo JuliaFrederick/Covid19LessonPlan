@@ -25,12 +25,12 @@ Are viruses classifed as facultative or obligate pathogens? Why
 ##### Solution
 ALL viruses are an obligate pathogen because they need the host's cellular machinery in order to reproduce  
     
-## Microparasites  
+# Microparasites  
 
-### Bacteria  
+## Bacteria  
 The majority of bacteria are non-disease causing or *nonpathogenic*. Less than 1% of bacteria is capable of invading the human body and causing illness (*pathogenic*). However, when one of these pathogenic bacteria is able to infect its host, a small battle ensues between the host's immune system and the bacteria. The bacteria are trying to remain present and multiple while the host is trying to prevent the bacteria from gaining access and reproducing. A host becomes *infected* when there is a persistance or multiplication of the pathogen on or within the host. Once a bacterium has infected the host, it is still in competition with the normal flora to survive. One way bacteria can out compete the normal flora is by producing toxic compounds that are harmful to the host. These compounds can cause vomiting, diarrhea, paralysis, pain, or fever. Bacteria can also enter the host's cells and cause direct damage to the tissues during replication. The good news is that most illness caused by bacteria can be remedied with an antibiotic.  
 
-#### Antibiotic Resistance in Bacteria  
+### Antibiotic Resistance in Bacteria  
 Antibiotics are used for preventing and treating infections caused by specific bacteria, and are critical in combatting life-threatening infections. Bacteria are classified as *resistant* to antibiotics when they no longer respond to the antibiotics designed to kill them. There are many different ways that a bacterium can become antibiotic-resistance which include random mutation, acquisition of new DNA (usually from another bacterium), and from bacteriophages, which are viruses that infect bacteria.   
 
 #### Question 2 {.tabset .tabset-fade .tabset-pills}
@@ -46,7 +46,7 @@ What are some methods suggested by public health officials to protect yourself a
 ##### Solution  
 Protect yourself and your family from antibiotic resistance by doing your best to stay healthy and keep others healthy, cleaning hands, covering coughs, staying home when sick, and getting recommended vaccines, such as the flu vaccine. If you get sick, see a doctor! Never pressure them to give antibiotics. If you are prescribed antibiotics take them exactly as the doctor says to, don't share them, save them for later, take someone else, etc.  
     
-### Viruses  
+## Viruses  
 The term *virus* was originally used to describe diseases of unknown origin because many epidemics were caused by viruses before anyone understood the nature of viruses themselves. Viruses are not able to reproduce independently and need to hijack the cellular machinery of the host in order to reproduce. An important note is that viruses usually target one organism, however, all organisms (including other microbes) are capable of being infected by viruses. No matter what the host is all viruses have the same basic life cycle. The only difference is that some viruses need to enter a host cell intact, while others disassemle and only the nucleic acid enters the cell. The structure of viruses is all relatively similar: a nucleic acid core surrounded by proteins. Viruses can be transmitted in a variety of ways:  
 
 + **Fecal-oral**: pathogens in fecal matter of host are passed to the mouth of another host  
@@ -87,7 +87,7 @@ Zoonotic includes Lyme disease, malaria, anthrax, hantavirus, leptospirosis
 Sexual Contact includes syphilis, herpes, hepititis.  
 This is not a complete list, this has some of the common ones on it. Some diseases can be transmitted through more than one route.
 
-#### How Viruses Replicate  
+### How Viruses Replicate  
 For DNA viruses replication occurs in the nucleus of the cell. For RNA viruses replication occurs in the cytoplasm. There are six general steps to replication, but the mechanisms vary by virus.  
 
   1. Attachment - receptors of the virus and host cell attach  
@@ -97,7 +97,7 @@ For DNA viruses replication occurs in the nucleus of the cell. For RNA viruses r
   5. Assembly - viral nucleic acids and proteins are assembled  
   6. Release - virus are released from the host cell. Typically destroying the host cell.  
   
-#### How Viruses Cause Disease  
+### How Viruses Cause Disease  
 
 There are two categories of infections caused by viruses: acute and persistent. *Acute infections* remain localized and the signs of disease are short-lived. When the host cell's are destroyed during the release stage of replication there is accompanying cell and tissue damage. This damage will stimulate the host's immune system and the viral infection will be remedied in a matter of days to months. *Persistent infections* will survive within the host without any signs of disease. Some are the result of an acute infection that was not fully eliminated. While other persistent infections are referred to as *latent* because they have long non-infectious periods between the original disease and subsequent disease (e.g. herpes). A persistent infection can also result in continuous chronic infectious stages following a short disease stage.  
 
@@ -114,7 +114,7 @@ Find an examples of viral disease that have acute infections, and persistent inf
 ##### Solution  
 Acute (flu, mumps, measles). Persistent (HIV->AIDS, chicken pox -> shingles)  
 
-#### Virulence  
+### Virulence  
 
 *Pathogenicity* is the ability of a pathogen to cause disease, given infections; while, *virulence* is the ability of a pathogen to cause severe disease in those with disease. From the pathogen's perspective it is important to balance the virulence with the route of tranmission. For example, pathogens transmitted through sexual contact wouldn't want to be highly virulent because then the host will be too sick to go out and mate and transmit the disease to the partner. Many viruses transmitted through sexual contact are mildly virulent, because of this. The level of virulence can also play a role in when a pathogen can shift to infect a new host species, resulting in outbreaks and epidemics. However, changes in virulence and how they occur and how to predict them are not well understood topics in disease ecology.   
 
@@ -131,7 +131,7 @@ For the 3 other transmission types (fecal-oral, respiratory, and zoonotic) what 
 ##### Solution  
 The best for all pathogens is moderate virulence, sick enough to be highly replicating within the host, but not high enough to keep the person inside and away from all that can be transmitted to. Overall, there isn't a correct answer, this is an exercise to the get the student thinking about virulence and from the perspective of the pathogen instead of the host.  
     
-#### Mutations  
+### Mutations  
 
 RNA viruses are known to use all known mechanisms of genetic variation to ensure survival. This constant variation makes it hard for the host's immune system to detect them and can make it so a single host has multiple versions of the pathogen at once, overwhleming the immune system. Hallmarks of viral replication are high mutation rates, high yields, and short replication times. This can even make medical interventions, like vaccines, hard to develop because the target pathogen is always changing. A classic example of viral replication is HIV. Where a single infected cell is capable of producing 10,000 new HIV viruses, each having 9,749 bases in their genome.  
 

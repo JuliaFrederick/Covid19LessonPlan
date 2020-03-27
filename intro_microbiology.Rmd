@@ -23,7 +23,7 @@ Microorganisms are found almost everywhere on the planet. Due to the incredible 
 
 Microbes are essential to life; they serve fundamental roles in our ecosystem and are critically important for nutrient cycling. As primary producers, some microbes generate energy through photosynthesis or chemosynthesis. Nitrogen-fixing microbes remove nitrogen from the atmosphere and transform it into forms useable by other organisms. Some microbes are decomposers; they breakdown organic material and release nutrients into the environment. 
 
-![Microbes are found across every niche and are essential to life!](../Images/ocean_microbes.png)
+![Microbes are found across every niche and are essential to life!](./Images/ocean_microbes.png)
 
 Most microbes in the environment are harmless or beneficial, but a small portion of microbes can cause disease. By understanding functions and characteristics of microbes, we may be better able to understand and control the spread of disease.  
 
@@ -32,7 +32,7 @@ Most microbes in the environment are harmless or beneficial, but a small portion
 
 A microorganism, or microbe, is any organism that is too small to be seen by the eyes alone. This includes viruses, bacteria, protozoans, and fungi. 
 
-![](../Images/example_microbes.png)
+![](./Images/example_microbes.png)
 
 #### Exercise 1 {.tabset .tabset-fade .tabset-pills}
 
@@ -67,7 +67,7 @@ A, F, C, D, B, E
 ##
 
 
-![Microorganisms do not belong to only one kingdom; instead, there are a diversity of microorganisms found across each kingdom.](../Images/kingdoms_microbes.png)
+![Microorganisms do not belong to only one kingdom; instead, there are a diversity of microorganisms found across each kingdom.](./Images/kingdoms_microbes.png)
 
 
 
@@ -83,7 +83,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 Distinguish between different kinds of microorganisms based on cellular structure. 
 Visit the [Cell Anatomy Viewer](https://askabiologist.asu.edu/cell-viewer-game/). Explore the cellular structure of the Animal, Plant, Fungus, and Bacterium. Play the Cell Parts ID Game until you can complete the "Expert Level." Then, fill in create a chart or diagram to compare the cellular structures, using the terms below.  
 
-![Terms.](../Images/terms.png)
+![Terms.](./Images/terms.png)
 
 </div>
 
@@ -95,7 +95,7 @@ Bacteria are single-celled microbes that are found in diverse environments. The 
 
 Bacteria are categorized by their shape and structure. You have learned that bacterial cells have both a cell membrane and a cell wall. Bacteria are either Gram-positive or Gram-negative based on the structure of their cell wall. 
 
-![Comparison of Gram-positive bacteria to Gram-negative bacteria.](../Images/gram_stain.png)
+![Comparison of Gram-positive bacteria to Gram-negative bacteria.](./Images/gram_stain.png)
 
 #### Question 1 {.tabset .tabset-fade .tabset-pills}
 
@@ -117,7 +117,7 @@ Gram-positive bacteria have a thick cell wall that is composed of peptidoglycan.
 
 There are three basic shapes of bacteria: bacillus (rod-shaped), coccus (spherical), and spirochete (spiral).
 
-![Common shapes of bacteria.](../Images/bacterial_shapes.png)
+![Common shapes of bacteria.](./Images/bacterial_shapes.png)
 
 #### Exercise 3 {.tabset .tabset-fade .tabset-pills}
 
@@ -129,7 +129,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 The image below is a microscopic image of a culture of _Staphylococcus aureus_. What is the gram stain of the bacteria? What is the shape of the bacteria?
 
-![View of _Staphylococcus aureus_ through the microscope, after Gram-stain.](../Images/staph.png)
+![View of _Staphylococcus aureus_ through the microscope, after Gram-stain.](./Images/staph.png)
 
 </div>  
 
@@ -140,7 +140,7 @@ _Staphylococcus aureus_ is a gram-positive coccus.
 # Viruses 
 Viruses are the smallest microbes and require a host cell to survive. In order to replicate, a virus must infect a host cell. These host cells may be cells from humans, plants, animals, or other microorganisms. 
 
-![Examples of viruses. (a) The SARS-CoV02 virus infects and replicates inside human and animal cells, (b) The Tobacco Mosaic Virus infects and replicates inside a wide range of plants, especially tobacco, (c) The bacteriophage virus infects and replicates inside bacterial cell hosts.](../Images/examples_viruses.png)
+![Examples of viruses. (a) The SARS-CoV02 virus infects and replicates inside human and animal cells, (b) The Tobacco Mosaic Virus infects and replicates inside a wide range of plants, especially tobacco, (c) The bacteriophage virus infects and replicates inside bacterial cell hosts.](./Images/examples_viruses.png)
 
 
 Examples of viruses. (a) The SARS-CoV02 virus infects and replicates inside human and animal cells, (b) The Tobacco Mosaic Virus infects and replicates inside a wide range of plants, especially tobacco, (c) The bacteriophage virus infects and replicates inside bacterial cell hosts.
@@ -159,7 +159,7 @@ Some viruses may respond to conditions in the host's cell. For example, if a bac
 
 In contrast, a bacteriophage virus may 'decide' to remain in a dormant inside the host's cell. In this case, the virus may enter the _lysogenic cycle_, where the viral DNA may replicate but will not burst the host's cell. If the host cell encounters an environmental stressor, the virus may then transition into the lytic cycle, replicating and lysing the host cell. 
 
-![Lytic Vs. Lysogenic Cycles of Bacteriophage](../Images/lytic_lysogenic.png)
+![Lytic Vs. Lysogenic Cycles of Bacteriophage](./Images/lytic_lysogenic.png)
 
 ## Virus Structure 
 All viruses are composed of genetic material and a protein coat, but viruses may take many different forms and structures. Viruses are classified according to their composition and structure, including their genetic material, their physical shape, and their outer coating. 
@@ -170,7 +170,7 @@ All viruses are composed of genetic material and a protein coat, but viruses may
 
 **Outer Coating.** All viruses have a protein coat. Enveloped viruses also have a lipid bilayer membrane and glycoproteins. Non-enveloped viruses have only a protein coat, but, non-enveloped viruses are more _persistent_, or hardy, in the environment. 
 
-![Comparison of four different viruses, based on shape, genetic material, and outer coating.](../Images/compare_viruses.png)
+![Comparison of four different viruses, based on shape, genetic material, and outer coating.](./Images/compare_viruses.png)
 
 # Wrap-Up Exercise
 
@@ -184,4 +184,4 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 How do viruses compare to other microorganisms? Generate a table to compare viruses to other microorganisms based on size, genetic material, structure, and reproduction.
 
 ##### Solution
-![Comparison between viruses and other microorganisms..](../Images/virus_table.png)
+![Comparison between viruses and other microorganisms..](./Images/virus_table.png)
