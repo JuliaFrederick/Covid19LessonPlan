@@ -9,6 +9,9 @@ This is a three module lesson plan that covers *microbiology*, *infectious disea
 
 You can find the Georgia Education Standards associated with these three modules in one of the tabs above.  
 
+We also have an additional website located [here](https://meganejlott.github.io/COVID19_LessonPlan/index.html) that is the "Student Version" and does not have the solutions accompanying the questions.  
+url: <https://meganejlott.github.io/COVID19_LessonPlan/index.html>
+
 If you have any questions please reach out to us at megan.lott@uga.edu or julia.frederick@uga.edu. We are happy to help!  
 
 ![](./Images/publicHealthlogo.png)
